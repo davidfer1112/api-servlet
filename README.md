@@ -1,4 +1,4 @@
-# Documentación del Proyecto API-Servlet
+# Documentación API-Servlet
 
 Este proyecto es una aplicación web desarrollada con Java, utilizando Servlets para manejar las peticiones HTTP. El proyecto está configurado para ser desplegado en un servidor Tomcat y utiliza Maven como sistema de gestión y construcción de proyectos.
 
